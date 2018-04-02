@@ -65,7 +65,7 @@ module.exports = (projectPath, projectExcludes) => {
                 this.emit('error', new PluginError('gulp-sonarlint', err));
             }
         ).catch((err) => {
-            this.emit('error', new PluginError('gulp-sonarlint', err));
+
         });
     });
 };
