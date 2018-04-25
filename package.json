@@ -1,6 +1,6 @@
 {
   "name": "gulp-sonarlint",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "SonarJS linter plugin for Gulp",
   "main": "index.js",
   "scripts": {
